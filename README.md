@@ -28,8 +28,8 @@ El proyecto se divide en dos partes principales: el cliente y el servidor.
 - `ClienteChat`: Contiene la lógica y la interfaz de usuario para el cliente de chat.
 - `ServerChat`: Contiene la lógica del servidor de chat.
 
-## Documentacion Proyecto
-Encontrara la documentacion en el siguite link en [Drive](https://drive.google.com/drive/folders/1f5hfXCkpAZQ_d9y0P7ee6rm-bglGHfMz?usp=sharing)
+## Documentación Proyecto
+Encontrara la documentación en el siguite link en [Drive](https://drive.google.com/drive/folders/1f5hfXCkpAZQ_d9y0P7ee6rm-bglGHfMz?usp=sharing)
 
 ## Bibliotecas utilizadas
 
